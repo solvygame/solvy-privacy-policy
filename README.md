@@ -37,7 +37,7 @@ TABLE OF CONTENTS
 
 
 
-WHAT INFORMATION DO WE COLLECT?
+  1.WHAT INFORMATION DO WE COLLECT?
 
 
 Information automatically collected
